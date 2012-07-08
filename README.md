@@ -17,7 +17,7 @@ Configuration can be set via the command line:
 
     VpnConnect.exe [-path=<path>] [-profile=<profile>] [-user=<username>] [-password=<password>]
 
-Configuration is encrypted using (DPAPI) and stored in the `VpnConnect.exe.config` file.
+Configuration is encrypted (using DPAPI) and stored in the `VpnConnect.exe.config` file.
 
 ## Installation
 
